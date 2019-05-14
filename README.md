@@ -1,2 +1,2 @@
 # github-teste
-Início do uso github
+Início do uso do github
